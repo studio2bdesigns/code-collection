@@ -1,3 +1,7 @@
+# # # # # # # # # # # # # # # # # # # # #
+#  DEFAULT ANDROID .gitignore TEMPLATE  #
+# # # # # # # # # # # # # # # # # # # # #
+
 # Built application files
 *.apk
 *.ap_
@@ -63,3 +67,16 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+
+
+# # # # # # # # # # # # # # # # # # # # # # #
+#  MISCELLANEOUS (ADDED) .gitignore STUFF   #
+# # # # # # # # # # # # # # # # # # # # # # #
+
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
